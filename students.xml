@@ -1,0 +1,12 @@
+<students>
+    <student sNo="2020102230">
+        <name>Joshua Pancrudo</name>
+        <cNo>09xxxxxxxxx</cNo>
+        <address>Baliag, Bulacan</address>
+    </student>
+    <student sNo="2020101640">
+        <name>Marc Tonga</name>
+        <cNo>09xxxxxxxxx</cNo>
+        <address>Guiguinto, Bulacan</address>
+    </student>
+</students>
